@@ -1,0 +1,23 @@
+// add 5 no and get persentage of 5no 
+
+#include<iostream>
+using namespace std;
+int main ()
+{
+    int a,b,c,d,e,sum,p;
+    cout << "Enter first number : ";
+    cin >> a;
+    cout << "Enter second number : ";
+    cin >> b;
+     cout << "Enter third number : ";
+    cin >> c;
+     cout << "Enter forth number : ";
+    cin >> d;
+     cout << "Enter fifth number : ";
+    cin >> e;
+    sum=a+b+c+d+e;
+    cout << "sum=" <<sum <<endl;
+    p=sum/5;
+    cout << "precrntage =" <<p;
+    return 0;
+}                        
