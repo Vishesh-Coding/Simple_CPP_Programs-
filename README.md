@@ -6,13 +6,13 @@ program 2 :-           check if given integer is even or odd.cpp
 
 program 3 :-           Check if a Number is Positive or Negative.cpp
 
-program 4 :-            Display the Sum of the digits of a given Number.cpp
+program 4 :-           Display the Sum of the digits of a given Number.cpp
 
-program 5 :-
+program 5 :-           Reverse a Number without using Recursion.cpp
 
-program 6 :-
+program 6 :-           Check if a Number is an Adam Number.cpp
 
-program 7 :-
+program 7 :-           Display Current Date and Time.cpp
 
 program 8 :-
 
