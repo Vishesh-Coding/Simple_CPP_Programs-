@@ -6,7 +6,7 @@ program 2 :-           check if given integer is even or odd.cpp
 
 program 3 :-           Check if a Number is Positive or Negative.cpp
 
-program 4 :-
+program 4 :-            Display the Sum of the digits of a given Number.cpp
 
 program 5 :-
 
