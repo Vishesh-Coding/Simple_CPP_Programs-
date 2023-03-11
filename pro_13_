@@ -1,0 +1,45 @@
+//      display Prime numbers till N
+
+#include <iostream>
+using namespace std;
+
+ bool isPrime(int n)                            // Function to check if a  given number is prime
+
+{
+      if(n == 1 || n == 0) return false;       // Therefore 0 and 1 is not prime return false.
+      
+      for(int i = 2; i < n; i++)              // loop from 2 to n-1
+      {
+        if(n % i == 0) return false;         // if the number is divisible by i ,then n is not a prime number.
+      }
+      
+      return true;                          // Otherwise n is a prime number.
+}
+int main()                                 // main function
+{
+    int N = 100;
+    
+      for(int i = 1; i <= N; i++)        // loop for every number from 1 to N
+      {
+          if(isPrime(i))                // Check if current number is prime
+          {
+            cout << i << " ";
+          }
+    }
+ 
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
