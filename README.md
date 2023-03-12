@@ -24,4 +24,12 @@ program 11 :-
 
 program 12 :-
 
-program 13 :-
+program 13 :-  
+
+program 14 :- 
+
+program 15 :- 
+
+program 16 :-          Print all the Armstrong Numbers
+
+program 17 :- 
