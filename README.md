@@ -14,17 +14,17 @@ program 6 :-           Check if a Number is an Adam Number.cpp
 
 program 7 :-           Display Current Date and Time.cpp
 
-program 8 :-
+program 8 :-           Check if the Entered Year is a Leap Year.cpp
 
-program 9 :-
+program 9 :-           Print ASCII Value of All Characters in the String.cpp
 
-program 10 :-
+program 10 :-          Print Pascal's Triangle.cpp
 
-program 11 :-
+program 11 :-          Add 5 no and get persentage of 5 number 
 
-program 12 :-
+program 12 :-          Swap two number without using two numbers.cpp
 
-program 13 :-  
+program 13 :-          display Prime numbers till N
 
 program 14 :- 
 
