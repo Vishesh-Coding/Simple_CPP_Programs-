@@ -30,6 +30,6 @@ program 14 :-
 
 program 15 :- 
 
-program 16 :-          Print all the Armstrong Numbers
+program 16 :-         Print all the Armstrong Numbers
 
-program 17 :- 
+program 17 :-         display the factors of the entered number
