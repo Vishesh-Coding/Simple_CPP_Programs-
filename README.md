@@ -30,13 +30,13 @@ program 14 :-          Check Prime Number or not.cpp
 
 program 15 :- 
 
-program 16 :-         Print all the Armstrong Numbers between  1 to 1000
+program 16 :-          Print all the Armstrong Numbers between  1 to 1000
 
-program 17 :-         display the factors of the entered number
+program 17 :-          display the factors of the entered number
 
-program 18 :-
+program 18 :-          Generate Sequence of Ulam Numbers
 
-program 19 :-
+program 19 :-          Print All Perfect Cubes Below 1000
 
 program 20 :-
 
