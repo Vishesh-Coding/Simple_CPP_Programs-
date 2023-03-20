@@ -28,7 +28,7 @@ program 13 :-          display Prime numbers till N
 
 program 14 :-          Check Prime Number or not.cpp
 
-program 15 :- 
+program 15 :-          Check if a Number is an Armstrong Number
 
 program 16 :-          Print all the Armstrong Numbers between  1 to 1000
 
